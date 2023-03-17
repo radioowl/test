@@ -1,0 +1,21 @@
+H1{
+    color: rgb(25, 25, 145);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: bisque;
+}
+.th1{
+    color: aqua;
+}
+.th2{
+    color: brown;
+}
+.th3{color: rgb(47, 255, 19);}
+.imt{
+    padding-top: 300px;
+    color: blue;
+}
+div{
+    color: rgb(255, 0, 157);
+}
